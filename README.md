@@ -1,4 +1,5 @@
-# Milestone_1_Infosys
+
+
 🛡️ TruthGuard – AI-Powered Misinformation Detection Platform
 
 TruthGuard is a web-based application designed to help users identify and combat misinformation using AI-driven analysis. The project provides a secure authentication system and an interactive user interface for analyzing content credibility.
