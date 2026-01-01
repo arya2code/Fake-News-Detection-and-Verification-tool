@@ -1,6 +1,6 @@
 🛡️ TruthGuard – AI-Powered Fake News Detection & Verification System
 
-Infosys Springboard / Infosys Milestone Project
+Infosys Springboard Milestone Project
 Building trust in digital information using AI, NLP & Deep Learning
 
 📌 Overview
