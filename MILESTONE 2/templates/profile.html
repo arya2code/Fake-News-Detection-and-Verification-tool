@@ -223,7 +223,7 @@
                                     </span>
                                 </div>
                                 <div class="progress mt-2" style="height: 6px; border-radius: 3px;">
-                                    <div class="progress-bar bg-warning" style="width:;{{ (stats.suspicious_count/stats.total_analyses*100) if stats.total_analyses > 0 else 0 }}%"></div>
+                                    <div class="progress-bar bg-warning" style="width:{{ (stats.suspicious_count/stats.total_analyses*100) if stats.total_analyses > 0 else 0 }}%"></div>
                                 </div>
                             </div>
 
@@ -252,7 +252,7 @@
                                     </span>
                                 </div>
                                 <div class="progress mt-2" style="height: 6px; border-radius: 3px;">
-                                    <div class="progress-bar bg-danger" style="width:; {{ (stats.fake_count/stats.total_analyses*100) if stats.total_analyses > 0 else 0 }}%"></div>
+                                    <div class="progress-bar bg-danger" style="width: {{ (stats.fake_count/stats.total_analyses*100) if stats.total_analyses > 0 else 0 }}%"></div>
                                 </div>
                             </div>
                         </div>
